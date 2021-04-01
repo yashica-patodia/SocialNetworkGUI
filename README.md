@@ -1,8 +1,5 @@
 # SocialNetworkGUI
 
-In main.py I have created a GUI program which evaluates an input single variable function within a specified range
-of the input values, and creates a plot of the function, and displays in the window.This serves as a base for creating a whatsapp type social network gui in python tkinter.
-
 Like in a social network, posts of users can be to a contact or a group. All posts to a group
 appear in the incoming messages list for all members of the group. All direct posts from a
 contact also appear as incoming messages. For this current assignment, the list of users, their
